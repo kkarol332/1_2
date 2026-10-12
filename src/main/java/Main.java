@@ -1,5 +1,5 @@
 // import static org.junit.jupiter.api.Assertions.assertEquals;
-
+// impotry wedul
 // import org.junit.jupiter.api.Test;
 
 public class Main {
